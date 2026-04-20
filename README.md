@@ -1,4 +1,5 @@
 ☕ Java Learning Documentation
+Inspired by: Moxy004
 
 📌 Overview
 
