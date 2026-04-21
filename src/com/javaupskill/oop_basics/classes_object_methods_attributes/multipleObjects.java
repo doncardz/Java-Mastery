@@ -1,4 +1,4 @@
-package com.javaupskill.oop_basics.classes_object;
+package com.javaupskill.oop_basics.classes_object_methods_attributes;
 
 class Students{
     String name;
