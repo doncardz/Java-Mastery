@@ -1,4 +1,4 @@
-package com.javaupskill.fundametals.basicSyntax.dataTypes;
+package com.javaupskill.fundametals.variable;
 
 public class Main {
     public static void main(String[] args) {
