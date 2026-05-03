@@ -9,7 +9,7 @@ public class Main {
         float f = 3.14f;    //32-bit IEEE 754 floating point. Suitable for 6–7 decimal digits precision.
         double d = 2.1256428735;    //64-bit IEEE 754 floating point. Default for decimal values, ~15–16 digits precision.
         boolean isOnline = true;    // Holds only true or false.
-        char s = 'S';   //16-bit Unicode character, range: '\u0000' to '\uffff'.
+        char c = 'S';   //16-bit Unicode character, range: '\u0000' to '\uffff'.
 
         System.out.println(b);
         System.out.println(s);
@@ -18,7 +18,7 @@ public class Main {
         System.out.println(f);
         System.out.println(d);
         System.out.println(isOnline);
-        System.out.println(s);
+        System.out.println(c);
 
         /*
         Note: long requires to have "L" at the end.
