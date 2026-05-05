@@ -8,3 +8,17 @@ public class NarrowCast {
         System.out.println(myInt);
     }
 }
+
+/*
+    byte
+     v
+    short
+     v
+    int
+     v
+    long
+     v
+    float
+     v
+    double
+ */
